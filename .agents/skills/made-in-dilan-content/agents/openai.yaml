@@ -1,0 +1,6 @@
+interface:
+  display_name: "Made in Dilan Content Planner"
+  short_description: "Personal stories, production tables, and clear next steps"
+  default_prompt: "Use $made-in-dilan-content to develop my idea into a personal story, platform plan, filming table, and ordered tasks."
+policy:
+  allow_implicit_invocation: true
