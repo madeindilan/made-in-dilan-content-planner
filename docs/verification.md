@@ -14,7 +14,7 @@ Those checks concern the earlier working version. They are not a new behavioral 
 
 ## Public release - October 27, 2026
 
-The public edition is prepared as a separate repository with a clean initial history. External teaching summaries, source links, video titles and creator names from the earlier private research edition are excluded. The production decision guide has been rewritten around Dilan's stated requirements and practical use of her own material.
+The public edition is prepared as a separate repository with a clean initial history. External teaching summaries, source links, video titles and creator names from the earlier private research edition are excluded. The production guide has been rewritten around Dilan's stated requirements and general storytelling, shot-planning, editing and sound principles. Its public wording contains no creator-specific lesson summaries or named teaching framework.
 
 The release review covers the distributable file list, local links, skill metadata, excluded material and archive contents. The actual check output is retained outside the public package. No full transcripts, course PDFs, credentials, private conversations or music files are distributed.
 
