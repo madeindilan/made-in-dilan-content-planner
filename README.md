@@ -4,6 +4,14 @@ A personal workspace for turning raw ideas into stories, platform-specific produ
 
 Use it for design projects, creative experiments, professional experiences, and personal ideas. Each new plan starts with its own brief, facts, available material, and intended audience.
 
+Built for designers and independent creatives who have work to share and need a practical plan for explaining it on camera. Bring a project and the material you already have; work through what to say, what to show, and what to record first.
+
+## Price and access
+
+**$0 (free download).** The package includes the agent skill, method notes, production and research templates, and a worked project example. Downloading it requires no payment or email signup. Your chosen AI tool's subscription or usage charges are separate.
+
+[Download the free ZIP](https://github.com/madeindilan/made-in-dilan-content-planner/archive/refs/heads/main.zip) or [browse the worked example](examples/auratouch/production-plan.md).
+
 ## Start with an idea
 
 Download and extract the [ZIP package](https://github.com/madeindilan/made-in-dilan-content-planner/archive/refs/heads/main.zip), then open this repository in Codex and write:
@@ -11,6 +19,10 @@ Download and extract the [ZIP package](https://github.com/madeindilan/made-in-di
 > $made-in-dilan-content Help me develop my new content idea in my own voice. First understand the idea and the material I have. Then prepare the platform plan, spoken words and visuals, editing notes, and ordered tasks. Keep the first production small enough to start.
 
 Repository documentation and examples are in English. Generated content follows the language requested in the brief; when no language is specified, use the language of the user's brief.
+
+## Make it your own
+
+The default [personal context](.agents/skills/made-in-dilan-content/references/dilan.md) reflects Dilan's practice and preferences. Replace it with your own background, voice, references, and production constraints before planning your content. Start a new brief with your own project facts and assets; use the worked example to understand the structure.
 
 ## Choose the level of preparation
 
