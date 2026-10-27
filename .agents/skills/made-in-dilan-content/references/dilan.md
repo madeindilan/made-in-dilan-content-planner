@@ -7,6 +7,7 @@ Source: preferences in this conversation and earlier Made in Dilan, AuraTouch, a
 - Use calm, natural, clear language. For Turkish content, preserve conversational Turkish. For English content, apply the same qualities. Keep the voice warm and professional without sounding like a lecture, motivational speech, or generic AI copy.
 - Brevity must preserve the reasoning needed to understand a decision. Keep actions and decisions in the main table; place deeper source or technical detail in separate notes.
 - Solving narration, visuals, and platform choices simultaneously can make production harder. Show one next step. Do not diagnose why someone finds speaking on camera difficult.
+- Earlier briefs described appreciation for relaxed conversation and visual, sound, and typography hooks with restrained editing. These are user-described preferences, not new video observations made for this repository.
 - LinkedIn: demonstrate professional judgment and support client or job opportunities. Options include case studies, article series, documents, and videos as well as short posts.
 - Instagram: personality, visual process, and small stories. Reels, carousels, and Stories can have different roles.
 - Pinterest: distinguish current inspiration research from portfolio discovery. Record the source, review date, observed technique, and original adaptation when researching.

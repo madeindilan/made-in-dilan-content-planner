@@ -16,4 +16,4 @@ Answer as if a friend asked, “Why did you do this part that way?” If you stu
 | Listen back | Mark repetition and any missing reason | One short revision note |
 | Second take | Explain it again using the note | A usable spoken draft |
 
-The assistant can then turn the recording into a scene table. This practice uses Dilan's own explanation and the material available for her project.
+The assistant can then turn the recording into a scene table. This practice was developed for Dilan; it does not reproduce a creator's script.

@@ -1,73 +1,71 @@
-# Story, filming, editing and sound decisions
+# From teaching to a production decision
 
-Use these general production principles to explain Dilan's real work. Choose the ones that help the current piece. Every technique still needs a concrete application, available material and a reason to use it.
+Source IDs and access levels are recorded in the [source register](sources.md). Applications below were developed for this workspace; they are neither verbatim teaching instructions nor claims about Dilan's past experience.
 
-## Find a story the evidence supports
+## Find the story inside a topic — T06
 
-A topic names a subject; a useful story gives the viewer something specific to follow. Identify what the person wanted to achieve, the real constraint, the choice made and what can be seen in the finished work. An obstacle is useful only when it actually happened. A calm explanation of a final design is enough when earlier drafts or process footage are unavailable.
+The reviewed text separates the desired outcome, the unresolved issue, and what changes by the end. Use that distinction to find direction without adding artificial drama.
 
-For the packaging example, ask how Dilan balanced product information and illustration on the small label. Obtain her actual reason instead of supplying a plausible memory.
+**Apply:** “The AuraTouch process” is broad. “How I made room for illustration and information on a small label” is a more specific story candidate. Get the actual rationale from Dilan. If change is undocumented, explain the final decision from today's perspective.
 
-## Check the story in a few sentences
+**Output:** One main thought, any essential missing fact, and supporting material.
 
-When a longer explanation is hard to shape, briefly answer these questions:
+## Compress the story — T01
 
-- What was the starting situation?
-- What did I want to achieve?
-- What made the decision difficult, if anything?
-- What did I choose or change, and why?
-- What is visible in the result?
+Five lines can make the starting situation, intention, obstacle, change, and result visible together. They are a planning check; the speaker does not need to recite those labels.
 
-Use the answers to find the important connection. They are a planning aid, not a script that must be recited. Three natural talking points can be enough for a quick recording. Never fabricate a conflict or a successful outcome to fill the outline.
+**Apply:** If three talking points produce a natural explanation, keep that lighter structure. Confirm that any obstacle or emotion is real. The outline still needs concrete filming decisions.
 
-## Make the intended feeling concrete
+**Output:** Talking points or a short story outline.
 
-Translate a broad direction such as calm curiosity into recordable choices. Use a stable talking frame, a readable design detail and enough time to inspect it. Proximity, light, camera movement and sound can change the feeling of a scene; explain the contribution of a proposed choice rather than adding effects by default.
+## Choose what the scene should feel like — T08
 
-## Choose shots by what the viewer needs to understand
+Reviewed transcript sections connect intended feeling with framing, lighting, proximity, and sound layers.
 
-| View | Useful purpose | Application to a design explanation |
-|---|---|---|
-| Wide or establishing view | Show the setting and relationships | Introduce the desk or full project when context matters |
-| Medium talking view | Keep the person and gestures readable | Let Dilan explain a decision on camera |
-| Close-up or detail | Make one feature legible | Show the label, type size or menu control being discussed |
-| Over-the-shoulder view | Connect the person with the work | Show an action in the design file when that action explains something |
-| Point-of-view view | Let the audience follow an action | Demonstrate the actual screen interaction or inspect an object |
-| A justified camera move | Reveal information or follow action | Move from the complete package to the detail that matters |
+**Apply:** A starting direction for Dilan is calm curiosity. Stabilize the phone and simplify unrelated background details. Move closer to a design detail to reveal the reason for a choice. Equipment purchases are not prerequisites.
 
-Pick essential views first. A static frame can do the job. Opening folders, typing or moving the camera is not proof of a design decision by itself. Preserve the user's preference to appear on camera; voiceover is an option, not a replacement imposed by the planner.
+**Output:** Framing, action, and the scene's contribution to the story.
 
-## Test the explanation before committing to the shoot
+## Select the shots you need — T02
 
-Record rough narration in Dilan's own words, listen back and time it. Mark repetition, a missing reason and any detail that needs a visual. A rough audio sequence can reveal whether the story works before more filming is done. Record short sections when that makes the on-camera explanation easier.
+This note relies on a secondary summary and the creator's guide description, not a verified full transcript. Match wide, medium, close-up, over-the-shoulder, point-of-view, and movement options to a purpose.
 
-If music would help, test it against the actual speech. Check whether its energy and phrasing suit the material and whether speech remains understandable. Silence may give an important point more room. Use only music the final production is allowed to use.
+**Apply:** AuraTouch can start with a static medium talking shot, the complete package, and a label close-up. Add an over-the-shoulder view only if the screen action explains something. Opening a folder is not evidence of a design decision.
 
-## Give the edit a readable purpose
+**Output:** Essential shots and optional additions.
 
-| Editing choice | What it can do | Check before using it |
-|---|---|---|
-| Remove a pause or repeated phrase | Make the explanation concise | Preserve the original meaning and a natural speaking rhythm |
-| Cut to a closer detail | Make the spoken point visible | Show the exact feature being discussed at that moment |
-| Cut during a continuing action | Carry movement between views | Check direction, position and continuity |
-| Skip an unimportant interval | Move the process forward | Make any meaningful change understandable |
-| Match a visible feature across images | Help comparison | Use a real relationship such as aligned labels or the same menu state |
-| Let speech continue over a new image | Connect explanation and evidence | Ensure the new image supports the words rather than distracting from them |
+## Test the audio before filming — T07
 
-Build a complete rough sequence before polishing its opening. A transition needs a reason. Keep the piece focused on one main decision; save unrelated material as another idea.
+The reviewed transcript describes testing rough narration and candidate music in the timeline before filming. Feeling, energy, and style guide music choices; silence and restructuring the track also shape the story.
 
-## Use sound for a specific function
+**Apply:** Record rough phone audio for the first Reel and time it by listening. Shorten repetition and film only the missing visuals. If music helps, try a restrained candidate and compare the key decision sentence without it.
 
-Real action sounds and quiet room ambience can make an image feel connected to an activity. A movement sound can accompany an actual transition, a gradual build can support anticipation, and a short accent can mark a meaningful reveal. Their use is optional. Avoid making a calm design explanation feel artificially dramatic.
+**Output:** Rough audio, approximate scene durations, and the necessary shot list.
 
-Write the sound cue, how it will be recorded or sourced, and what it contributes. Keep the voice clear. Verify permissions for music and effects before they enter a published video.
+## Give each cut a purpose — T03, T04
 
-## Adapt the presentation to the platform
+Full transcripts were unavailable for these sources. Their summaries cover movement continuity, skipping time, closer detail, visual matches, pacing, and assembly edits. Treat these as supporting notes.
 
-Keep project facts and the genuine reasoning consistent. Change the opening, amount of explanation, visual order and ending for the selected audience. A professional article can explain the constraint in depth. A short video can demonstrate one decision. A portfolio Pin needs an understandable image and a correct destination. Do not automatically treat one edited video as the finished version for every platform.
+**Apply:** First arrange a complete spoken explanation. Then select useful cuts: remove repetitions, show the label when discussing its name, and align two labels for comparison. Finish the basic sequence before polishing the opening's effects.
 
-## Turn the plan into observable tasks
+**Output:** “Cut here → show this → make this thought visible.”
 
-For each task, name one action, an owner, a prerequisite and a condition that marks it done. Put the first action that can be completed now at the top. Pair each spoken point with a specific file, design detail, demonstration or shot. If that material does not exist, make recording it a task.
+## Give sound effects a role — T05
 
-Label draft speech, missing rationale and planned filming honestly. Finish with a clear next recording step and the reason for it.
+The reviewed text associates whooshes with movement, risers with anticipation, and impacts with emphasis. The transcript copy has inconsistent timing; do not use precise timed quotations from it.
+
+**Apply:** An actual mouse click or paper sound may be enough for AuraTouch. A whoosh needs a relevant movement. Avoid dramatic effects that undermine Dilan's calm voice. Explain what each chosen sound contributes.
+
+**Output:** Short functional notes for speech, ambient/action sound, and optional music or effects.
+
+## Keep one thread — T09
+
+Only the description and chapter names were reviewed. Their topics include a main thread, actual change, pacing, and letting images communicate. These are supporting pointers for a later transcript review.
+
+**Apply:** Keep the first video focused on one decision instead of combining the logo, every product group, the website, and AI production. Save unrelated material as future ideas.
+
+**Output:** One producible piece and a short list of deferred ideas.
+
+## A quick on-camera route — application for Dilan
+
+Choose one decision. Write three notes: what was there, what I chose, and why. Answer as if a friend asked one question. Memorization and a perfect single take are optional. Preserve a preference to appear on camera; offer voiceover as an alternative. For the first pass, check meaning, audio, and the visible example.

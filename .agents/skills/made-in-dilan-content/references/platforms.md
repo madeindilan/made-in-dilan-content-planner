@@ -1,6 +1,6 @@
 # Platform adaptation
 
-These are editorial recommendations for Dilan's goals, rather than verified platform algorithm rules. Verify current numerical limits, features, or trends against official sources when needed.
+These are editorial recommendations for Dilan's goals, not verified platform algorithm rules. Verify current numerical limits, features, or trends against official sources when needed.
 
 | Platform | Editorial role | A complete plan includes |
 |---|---|---|

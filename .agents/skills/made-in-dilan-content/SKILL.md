@@ -17,8 +17,8 @@ Use the requested level. **Quick recording** suits one observation or decision; 
 
 1. Read the brief, available visuals, and earlier decisions. Ask for the most important missing fact only when it changes the story; continue independent preparation. One genuine explanation of a decision is more valuable than an assumed storyline.
 2. Choose the main thought and intended feeling in one sentence each. Build a story around a real obstacle or change when supported. If only the final work exists, explain the decision from today's perspective; do not invent historical before-and-after material or emotions.
-3. Use the [production decision guide](references/methods.md) for the selected scope. Follow the [research policy](references/sources.md) when a new brief needs external material; preserve required attribution or exclude source-dependent material.
-4. Connect each chosen reference or project detail to a specific scene and explain its purpose. Keep observed facts separate from proposed creative direction. Transcripts support spoken content; claims about framing or editing require visual evidence.
+3. Select useful [method notes](references/methods.md). The five-line method is one option. Check the [source register](references/sources.md) before attributing a teaching claim. An inaccessible transcript cannot support a claim about what its creator said.
+4. Turn references into concrete direction: **source/section → observed technique → a specific scene for this project → why it fits**. Transcripts support spoken content; claims about framing or editing require visual evidence.
 5. Start with talking points or rough audio, then identify essential visuals. Three talking points may be enough in quick mode. A full script is optional. Preserve a preference to appear on camera; offer voiceover as an alternative.
 6. Use the [platform guide](references/platforms.md). Adapt the purpose, opening, sequence, and ending while reusing suitable material. Filmmaking methods are not platform algorithm rules.
 

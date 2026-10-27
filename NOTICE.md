@@ -6,4 +6,6 @@ The image `examples/auratouch/assets/soap-packaging.png` and the logos, illustra
 
 When adapting the planner, replace the example artwork with assets you own or are licensed to use. Preserve the MIT copyright and permission notice when redistributing the licensed text.
 
-This public release does not redistribute third-party videos, lesson transcripts, teaching summaries, screenshots, music or paid course files.
+This public release does not redistribute third-party videos, full lesson transcripts, copied lesson text, screenshots, music or paid course files.
+
+The method library retains short notes in the workspace's own wording about general storytelling and filmmaking principles. These principles are not claimed as proprietary inventions.
