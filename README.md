@@ -10,6 +10,10 @@ Built for designers and independent creatives who have work to share and need a 
 
 See Content Planner used on a brief about its own workflow:
 
+![Saved input, plan, and five-scene filming table shown in GitHub](examples/demo/usage-demo.gif)
+
+*Preview of the saved demo files. Open the links below for the complete input and outputs.*
+
 | Input | Planning decision | Filming output |
 | --- | --- | --- |
 | “I want to show how I use Content Planner to prepare a video.” | One roughly 40-second Instagram Reel with three story beats | Five scenes pairing draft speech, visuals, and editing notes; ordered recording tasks |

@@ -2,6 +2,10 @@
 
 A saved planning run created in Codex on **October 31, 2026**, applying the repository’s Made in Dilan Content skill to a concrete brief about Content Planner itself.
 
+![Saved input, plan, and five-scene filming table shown in GitHub](usage-demo.gif)
+
+*The preview walks through the actual GitHub-rendered files saved for this demo.*
+
 | Step | Saved artifact | What changes |
 | --- | --- | --- |
 | 1 · Idea | [Exact input and available material](01-brief.md) | “I want to share this project” becomes a scoped brief |

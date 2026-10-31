@@ -36,3 +36,7 @@ Method IDs retain the access limitations in the source register. The demo applie
 The saved files document the brief and the plan produced in this session. The spoken lines were drafted for the demo and are not a transcript of Dilan speaking. Recording and publication remain future tasks.
 
 No customer results, time-saving measurements, private conversations, or completed filming are claimed.
+
+## Preview capture
+
+The looping [preview](usage-demo.gif) contains three screenshots of the GitHub-rendered brief, plan, and filming table after they were saved in commit [61c0287](https://github.com/madeindilan/made-in-dilan-content-planner/commit/61c0287959db8bf3811d903d956df5a327fdc932). It displays those saved artifacts in order: 6.5 seconds for the brief, 6.5 seconds for the plan, and 10 seconds for the filming table.
