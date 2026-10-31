@@ -6,6 +6,18 @@ Use it for design projects, creative experiments, professional experiences, and 
 
 Built for designers and independent creatives who have work to share and need a practical plan for explaining it on camera. Bring a project and the material you already have; work through what to say, what to show, and what to record first.
 
+## Demo: idea → plan → filming table
+
+See Content Planner used on a brief about its own workflow:
+
+| Input | Planning decision | Filming output |
+| --- | --- | --- |
+| “I want to show how I use Content Planner to prepare a video.” | One roughly 40-second Instagram Reel with three story beats | Five scenes pairing draft speech, visuals, and editing notes; ordered recording tasks |
+
+[Follow the complete demo](examples/demo/README.md) · [Copy the input](examples/demo/01-brief.md) · [Read the plan](examples/demo/02-plan.md) · [Open the filming table](examples/demo/03-shot-table.md)
+
+The demo saves the input and planning outputs from a Codex session. Spoken lines are drafts; filming tasks are planned.
+
 ## Price and access
 
 **$0 (free download).** The package includes the agent skill, method notes, production and research templates, and a worked project example. Downloading it requires no payment or email signup. Your chosen AI tool's subscription or usage charges are separate.
